@@ -21,10 +21,12 @@
     "prisma-client-lib": "^1.30.4"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "nodemon": "^1.19.0"
   },
   "scripts": {
-    "start": "node ./node_modules/nodemon/bin/nodemon.js --exec babel-node src/server.js",
+   
+    "start": "babel-node src/server.js",
     "deploy": "prisma deploy",
     "generate": "prisma generate",
     "prisma": "yarn run deploy && yarn run generate",
