@@ -1,7 +1,10 @@
 # prismagram
 Instagram clone with Express + Prisma + React and React Native
 
+### Check out the link below
+https://prismagram-frontend.herokuapp.com/#/
 
+#### You can enjoy instagram just simple signup
 
 ## User Stories
 
