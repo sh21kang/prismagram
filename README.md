@@ -26,4 +26,3 @@ Instagram clone with Express + Prisma + React and React Native
 - [ ] Send private Message
 - [ ] Receive Message (Realtime)
 
-//   "start": "node ./node_modules/nodemon/bin/nodemon.js --exec babel-node src/server.js",
